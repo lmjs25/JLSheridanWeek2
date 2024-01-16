@@ -1,3 +1,3 @@
 name = "My name"
 address = "Oakville"
-phone = 12345
+password = 12345
